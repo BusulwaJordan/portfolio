@@ -1,5 +1,5 @@
 // Typing Effect
-const roles = ["AI Engineer", "Product Builder", "Flutter Developer", "Blockchain Enthusiast"];
+const roles = ["Smart AI Systems", "Flutter Mobile Apps", "Scalable Web Products", "Blockchain DApps"];
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
